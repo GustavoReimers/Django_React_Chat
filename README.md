@@ -96,7 +96,7 @@ Running
 
 The system has been tested with Ubuntu 14.04, node.js 6.0.3, Python 3.4::
 
-  git clone https://github.com/dragonboy612/Django_React_Chat
+  git clone https://github.com/SeniorDev34/Django_React_Chat
   cd channel_chat
 
 Add :file:`project/local_settings.py`, with a ``SECRET_KEY`` and optionally
